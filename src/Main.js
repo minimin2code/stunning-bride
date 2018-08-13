@@ -11,7 +11,7 @@ class Main extends Component {
           </h1>
           <ul className="header">
             
-            <li><a href="/awesometodo">React-Todo-List</a></li>
+            <li><a href="/awesometod">React-Todo-List</a></li>
         
           </ul>
           <span>
