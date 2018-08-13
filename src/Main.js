@@ -10,7 +10,7 @@ class Main extends Component {
           <img src={logo} alt="logo" width="100" height="100" />
           </h1>
           <ul className="header">
-            <li><a href="/">Home</a></li>
+            <li><a href="https://minimin2code.github.io/stunning-bride/">Home</a></li>
             <li><a href="/stuff">React-Todo-List</a></li>
         
           </ul>
